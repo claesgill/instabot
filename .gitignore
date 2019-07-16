@@ -1,0 +1,8 @@
+.git
+.vscode
+__pycache__
+.DS_store
+geckodriver.log
+log.csv
+log.txt
+
